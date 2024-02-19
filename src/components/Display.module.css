@@ -1,0 +1,10 @@
+.display {
+  margin: 10px;
+  width: 190px;
+  font-size: 25px;
+  border: none;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 8px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
